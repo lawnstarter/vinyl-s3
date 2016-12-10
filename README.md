@@ -1,3 +1,7 @@
+# UPDATE FOR USE IN NG-GULPFILE
+Use forked version of s3-streams and s3-glob that allow installation of
+packages for higher node versions
+
 # vinyl-s3
 
 Use S3 as a source or destination of vinyl files.
